@@ -1,0 +1,848 @@
+$ vite
+Port 5173 is in use, trying another one...
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m361[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m19:56:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m22:14:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:15:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:15:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:16:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:16:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:17:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m22:30:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:31:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:31:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:32:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:32:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:33:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m22:41:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m22:42:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:43:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:43:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:43:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:43:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:45:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:46:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:46:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m22:50:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m22:50:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m23:14:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:15:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:16:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m23:23:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:35:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:36:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:37:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:37:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:41:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:41:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:42:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m23:47:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:47:24[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token, expected "," (4101:21)
+
+[0m [90m 4099 |[31m           [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 4100 |[31m         ) [33m:[31m (
+[31m[1m>[22m[31m[90m 4101 |[31m         {currentItems[33m.[31mlength [33m===[31m [35m0[31m [33m?[31m (
+ [90m      |[31m                      [31m[1m^[22m[31m
+ [90m 4102 |[31m           [33m<[31m[33mdiv[31m className[33m=[31m[32m"flex h-full items-center justify-center"[31m[33m>[31m
+ [90m 4103 |[31m             [33m<[31m[33mp[31m className[33m=[31m[32m"text-sm text-text-disabled"[31m[33m>[31m
+ [90m 4104 |[31m               {showLaterList [33m?[31m [32m"暂无延期安排"[31m [33m:[31m [32m"暂无安排，添加一条吧～"[31m}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/pages/Home.tsx[39m:4101:21
+[33m  4099|            </div>
+  4100|          ) : (
+  4101|          {currentItems.length === 0 ? (
+     |                       ^
+  4102|            <div className="flex h-full items-center justify-center">
+  4103|              <p className="text-sm text-text-disabled">[39m
+      at constructor (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.expect (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6899:12)
+      at TypeScriptParserMixin.parseObjectLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11812:14)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11329:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12416:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12483:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11665:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11321:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at TypeScriptParserMixin.parseConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10883:29)
+      at TypeScriptParserMixin.parseConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9603:18)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10875:17)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10774:23)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12416:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4632:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4711:36)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4698:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4749:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4759:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+[2m23:50:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:51:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m23:55:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m23:59:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:06:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:06:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:07:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:08:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:11:57[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:11:57[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token (4049:44)
+
+[0m [90m 4047 |[31m     [36mreturn[31m formatDateKey(next[33m.[31mgetFullYear()[33m,[31m next[33m.[31mgetMonth() [33m+[31m [35m1[31m[33m,[31m next[33m.[31mgetDate())[33m;[31m
+ [90m 4048 |[31m   }
+[31m[1m>[22m[31m[90m 4049 |[31m   [36mconst[31m weekMap[33m:[31m [33mRecord[31m[33m<[31m[33mstring[31m[33m,[31m number[33m>[31m [33m=[31m { [33m?[31m[33m:[31m [35m0[31m[33m,[31m [33m?[31m[33m:[31m [35m0[31m[33m,[31m [33m?[31m[33m:[31m [35m1[31m[33m,[31m [33m?[31m[33m:[31m [35m2[31m[33m,[31m [33m?[31m[33m:[31m [35m3[31m[33m,[31m [33m?[31m[33m:[31m [35m4[31m[33m,[31m [33m?[31m[33m:[31m [35m5[31m[33m,[31m [33m?[31m[33m:[31m [35m6[31m }[33m;[31m
+ [90m      |[31m                                             [31m[1m^[22m[31m
+ [90m 4050 |[31m   [36mconst[31m weekMatch [33m=[31m text[33m.[31mmatch([35m/??([????????])/[31m)[33m;[31m
+ [90m 4051 |[31m   [36mif[31m (weekMatch) {
+ [90m 4052 |[31m     [36mconst[31m target [33m=[31m weekMap[weekMatch[[35m1[31m]][33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/pages/Home.tsx[39m:4049:44
+[33m  4047|      return formatDateKey(next.getFullYear(), next.getMonth() + 1, next.getDate());
+  4048|    }
+  4049|    const weekMap: Record<string, number> = { ?: 0, ?: 0, ?: 1, ?: 2, ?: 3, ?: 4, ?: 5, ?: 6 };
+     |                                              ^
+  4050|    const weekMatch = text.match(/??([????????])/);
+  4051|    if (weekMatch) {[39m
+      at constructor (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.parsePropertyName (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12014:18)
+      at TypeScriptParserMixin.parsePropertyDefinition (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11879:10)
+      at TypeScriptParserMixin.parseObjectLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11822:21)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11329:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12411:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13374:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13220:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9408:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12841:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12757:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12737:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13306:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13299:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13287:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12090:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12076:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9172:18)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13435:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12393:14)
+      at TypeScriptParserMixin.parseFunction (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13434:10)
+      at TypeScriptParserMixin.parseFunctionStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13115:17)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12781:21)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12757:17)
+      at TypeScriptParserMixin.parseModuleItem (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12734:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13306:36)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13299:10)
+      at TypeScriptParserMixin.parseProgram (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12612:10)
+      at TypeScriptParserMixin.parseTopLevel (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12602:25)
+      at TypeScriptParserMixin.parse (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:14478:25)
+      at TypeScriptParserMixin.parse (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10116:18)
+      at parse (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:14512:38)
+      at parser (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+core@7.28.6\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+[2m00:13:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:14:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:15:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:17:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:18:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:18:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:19:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:23:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:23:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:24:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:36:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:36:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:37:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:43:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:43:05[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token (845:74)
+
+[0m [90m 843 |[31m   )[33m;[31m
+ [90m 844 |[31m
+[31m[1m>[22m[31m[90m 845 |[31m   [36mconst[31m testConversationSummaries [33m=[31m [33mReact[31m[33m.[31museMemo[33m<[31m[33mTestConversationSummary[31m[][33m>[31m(
+ [90m     |[31m                                                                           [31m[1m^[22m[31m
+ [90m 846 |[31m     () [33m=>[31m {
+ [90m 847 |[31m       [36mconst[31m privateSummaries [33m=[31m testIdentities
+ [90m 848 |[31m         [33m.[31mmap[33m<[31m[33mTestConversationSummary[31m [33m|[31m [36mnull[31m[33m>[31m((identity) [33m=>[31m {[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/pages/Home.tsx[39m:845:74
+[33m  843|    );
+  844|  
+  845|    const testConversationSummaries = React.useMemo<TestConversationSummary[]>(
+     |                                                                            ^
+  846|      () => {
+  847|        const privateSummaries = testIdentities[39m
+      at constructor (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11432:22)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10774:23)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12416:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:17)
+      at TypeScriptParserMixin.parseMember (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11129:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11114:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9272:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11084:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11075:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10976:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10971:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10937:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9306:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10898:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12411:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13374:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13220:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9408:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12841:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12757:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12737:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13306:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13299:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13287:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12090:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12076:10)
+[2m00:43:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:43:23[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token (845:74)
+
+[0m [90m 843 |[31m   )[33m;[31m
+ [90m 844 |[31m
+[31m[1m>[22m[31m[90m 845 |[31m   [36mconst[31m testConversationSummaries [33m=[31m [33mReact[31m[33m.[31museMemo[33m<[31m[33mTestConversationSummary[31m[][33m>[31m(
+ [90m     |[31m                                                                           [31m[1m^[22m[31m
+ [90m 846 |[31m     () [33m=>[31m {
+ [90m 847 |[31m       [36mconst[31m privateSummaries [33m=[31m testIdentities
+ [90m 848 |[31m         [33m.[31mmap[33m<[31m[33mTestConversationSummary[31m [33m|[31m [36mnull[31m[33m>[31m((identity) [33m=>[31m {[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/pages/Home.tsx[39m:845:74
+[33m  843|    );
+  844|  
+  845|    const testConversationSummaries = React.useMemo<TestConversationSummary[]>(
+     |                                                                            ^
+  846|      () => {
+  847|        const privateSummaries = testIdentities[39m
+      at constructor (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11432:22)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10774:23)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12416:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:17)
+      at TypeScriptParserMixin.parseMember (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11129:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11114:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9272:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11084:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11075:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10976:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10971:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10937:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9306:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10898:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12411:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13374:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13220:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9408:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12841:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12757:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12737:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13306:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13299:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13287:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12090:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12076:10)
+[2m00:44:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:44:17[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token (845:74)
+
+[0m [90m 843 |[31m   )[33m;[31m
+ [90m 844 |[31m
+[31m[1m>[22m[31m[90m 845 |[31m   [36mconst[31m testConversationSummaries [33m=[31m [33mReact[31m[33m.[31museMemo[33m<[31m[33mTestConversationSummary[31m[][33m>[31m(
+ [90m     |[31m                                                                           [31m[1m^[22m[31m
+ [90m 846 |[31m     () [33m=>[31m {
+ [90m 847 |[31m       [36mconst[31m privateSummaries [33m=[31m testIdentities
+ [90m 848 |[31m         [33m.[31mmap[33m<[31m[33mTestConversationSummary[31m [33m|[31m [36mnull[31m[33m>[31m((identity) [33m=>[31m {[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/pages/Home.tsx[39m:845:74
+[33m  843|    );
+  844|  
+  845|    const testConversationSummaries = React.useMemo<TestConversationSummary[]>(
+     |                                                                            ^
+  846|      () => {
+  847|        const privateSummaries = testIdentities[39m
+      at constructor (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11432:22)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10774:23)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12416:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:17)
+      at TypeScriptParserMixin.parseMember (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11129:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11114:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9272:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11084:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11075:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10976:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10971:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10937:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9306:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10898:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12411:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13374:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13220:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9408:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12841:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12757:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12737:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13306:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13299:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13287:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12090:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12076:10)
+[2m00:47:24[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token (845:74)
+
+[0m [90m 843 |[39m   )[33m;[39m
+ [90m 844 |[39m
+[31m[1m>[22m[39m[90m 845 |[39m   [36mconst[39m testConversationSummaries [33m=[39m [33mReact[39m[33m.[39museMemo[33m<[39m[33mTestConversationSummary[39m[][33m>[39m(
+ [90m     |[39m                                                                           [31m[1m^[22m[39m
+ [90m 846 |[39m     () [33m=>[39m {
+ [90m 847 |[39m       [36mconst[39m privateSummaries [33m=[39m testIdentities
+ [90m 848 |[39m         [33m.[39mmap[33m<[39m[33mTestConversationSummary[39m [33m|[39m [36mnull[39m[33m>[39m((identity) [33m=>[39m {[0m
+[2m00:47:24[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token (845:74)
+
+[0m [90m 843 |[31m   )[33m;[31m
+ [90m 844 |[31m
+[31m[1m>[22m[31m[90m 845 |[31m   [36mconst[31m testConversationSummaries [33m=[31m [33mReact[31m[33m.[31museMemo[33m<[31m[33mTestConversationSummary[31m[][33m>[31m(
+ [90m     |[31m                                                                           [31m[1m^[22m[31m
+ [90m 846 |[31m     () [33m=>[31m {
+ [90m 847 |[31m       [36mconst[31m privateSummaries [33m=[31m testIdentities
+ [90m 848 |[31m         [33m.[31mmap[33m<[31m[33mTestConversationSummary[31m [33m|[31m [36mnull[31m[33m>[31m((identity) [33m=>[31m {[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/pages/Home.tsx[39m:845:74
+[33m  843|    );
+  844|  
+  845|    const testConversationSummaries = React.useMemo<TestConversationSummary[]>(
+     |                                                                            ^
+  846|      () => {
+  847|        const privateSummaries = testIdentities[39m
+      at constructor (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11432:22)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10774:23)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12416:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:17)
+      at TypeScriptParserMixin.parseMember (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11129:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11114:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9272:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11084:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11075:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10976:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10971:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10937:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9306:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10898:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12411:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13374:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13220:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9408:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12841:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12757:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12737:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13306:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13299:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13287:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12090:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12076:10)
+[2m00:47:34[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\14769\Desktop\ArkmeDemo-main\src\pages\Home.tsx: Unexpected token (845:74)
+
+[0m [90m 843 |[31m   )[33m;[31m
+ [90m 844 |[31m
+[31m[1m>[22m[31m[90m 845 |[31m   [36mconst[31m testConversationSummaries [33m=[31m [33mReact[31m[33m.[31museMemo[33m<[31m[33mTestConversationSummary[31m[][33m>[31m(
+ [90m     |[31m                                                                           [31m[1m^[22m[31m
+ [90m 846 |[31m     () [33m=>[31m {
+ [90m 847 |[31m       [36mconst[31m privateSummaries [33m=[31m testIdentities
+ [90m 848 |[31m         [33m.[31mmap[33m<[31m[33mTestConversationSummary[31m [33m|[31m [36mnull[31m[33m>[31m((identity) [33m=>[31m {[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/pages/Home.tsx[39m:845:74
+[33m  843|    );
+  844|  
+  845|    const testConversationSummaries = React.useMemo<TestConversationSummary[]>(
+     |                                                                            ^
+  846|      () => {
+  847|        const privateSummaries = testIdentities[39m
+      at constructor (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6599:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:6619:16)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11432:22)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:4764:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11071:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10894:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10774:23)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12416:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10770:17)
+      at TypeScriptParserMixin.parseMember (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11129:28)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11114:21)
+      at TypeScriptParserMixin.parseSubscript (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9272:18)
+      at TypeScriptParserMixin.parseSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11084:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11075:17)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11056:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:11036:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9827:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10889:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10976:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10971:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10937:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9306:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10898:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10871:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10821:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9776:20)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12411:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:10790:17)
+      at TypeScriptParserMixin.parseVar (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13374:91)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13220:10)
+      at TypeScriptParserMixin.parseVarStatement (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9408:31)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12841:23)
+      at TypeScriptParserMixin.parseStatementContent (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:9508:18)
+      at TypeScriptParserMixin.parseStatementLike (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12757:17)
+      at TypeScriptParserMixin.parseStatementListItem (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12737:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13306:61)
+      at TypeScriptParserMixin.parseBlockBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13299:10)
+      at TypeScriptParserMixin.parseBlock (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:13287:10)
+      at TypeScriptParserMixin.parseFunctionBody (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12090:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\@babel+parser@7.28.6\node_modules\@babel\parser\lib\index.js:12076:10)
+[2m00:52:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:52:17[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:14:332: ERROR: Unterminated string literal
+[2m00:52:17[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:14:332: ERROR: Unterminated string literal[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:14:332
+[33m  
+  [33mUnterminated string literal[33m
+  18 |        "docs/codex-iteration-log.md",
+  19 |        "scripts/verify-codex-log.mjs",
+  20 |        "package.json",
+     |      ^
+  21 |      ],
+  22 |      verification: [
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:52:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:52:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m00:53:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m00:53:20[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'
+[2m00:53:20[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:53:58[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:53:59[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:00[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:00[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:00[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:00[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:00[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:01[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:01[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:54:09[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+C:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts:11:16: ERROR: Syntax error '"'[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/14769/Desktop/ArkmeDemo-main/src/data/aiConversationLog.ts[39m:11:16
+[33m  
+  [33mSyntax error '"'[33m
+  9  |  export const aiConversationLogEntries: AiConversationLogEntry[] = [
+  10 |    {
+  11 |      timestamp: \"2026-05-22 01:05:00 CST (+0800)\",
+     |                  ^
+  12 |      userInput: \"项目崩溃，编译错误指向 Home.tsx 845 附近，要求立即回滚/修复并隔离后续修改范围。\",
+  13 |      aiFinalOutput: \"已修复 Home.tsx 语法断裂并恢复可编译状态，同时修复 aiConversationLog.ts 语法污染；后续将严格避免修改 Home.tsx 与聊天模块文件。\",
+  [39m
+      at failureErrorWithLog (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:1472:15)
+      at C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (C:\Users\14769\Desktop\ArkmeDemo-main\node_modules\.pnpm\esbuild@0.21.5\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:509:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:56:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css, /src/pages/Home.tsx[22m
+[2m01:03:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:10:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:10:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:11:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:14:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:15:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:15:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:15:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:21:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:21:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:21:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:22:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:22:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m01:28:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:33:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m
+[2m01:35:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/styles/globals.css[22m

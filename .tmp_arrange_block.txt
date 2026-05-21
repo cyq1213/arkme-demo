@@ -1,0 +1,54 @@
+﻿function ArrangePreview({
+  inputValue,
+  items,
+  showAiSettings,
+  detailId,
+  apiKeyInput,
+  apiBaseInput,
+  hasBoundApiKey,
+  aiInput,
+  aiError,
+  aiLoading,
+  onInputChange,
+  onAdd,
+  onToggleItem,
+  onMoveToLater,
+  onReactivate,
+  onOpenDetail,
+  onOpenAiSettings,
+  onCloseDetail,
+  onCloseAiSettings,
+  onApiKeyInputChange,
+  onApiBaseInputChange,
+  onSaveApiKey,
+  onAiInputChange,
+  onAiRecognize,
+}: {
+  inputValue: string;
+  items: ArrangeItem[];
+  showAiSettings: boolean;
+  detailId: string | null;
+  apiKeyInput: string;
+  apiBaseInput: string;
+  hasBoundApiKey: boolean;
+  aiInput: string;
+  aiError: string;
+  aiLoading: boolean;
+  onInputChange: (value: string) => void;
+  onAdd: () => void;
+  onToggleItem: (id: string) => void;
+  onMoveToLater: (id: string) => void;
+  onReactivate: (id: string) => void;
+  onOpenDetail: (id: string | null) => void;
+  onOpenAiSettings: () => void;
+  onCloseDetail: () => void;
+  onCloseAiSettings: () => void;
+  onApiKeyInputChange: (value: string) => void;
+  onApiBaseInputChange: (value: string) => void;
+  onSaveApiKey: () => void;
+  onAiInputChange: (value: string) => void;
+  onAiRecognize: () => void;
+}) {
+  return <div />;
+}
+
