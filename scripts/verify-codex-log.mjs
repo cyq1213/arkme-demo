@@ -18,19 +18,25 @@ function fail(message) {
 
 function readText(path, label) {
   try {
-    return readFileSync(path, "utf8");
+    let text = readFileSync(path, "utf8");
+    if (text.charCodeAt(0) === 0xfeff) {
+      text = text.slice(1);
+    }
+    return text;
   } catch {
     fail(`${label} does not exist`);
   }
 }
 
 function getSessionLogPath() {
-  if (!existsSync(sessionPath)) return null;
+  if (!existsSync(sessionPath)) {
+    return null;
+  }
 
   let session;
 
   try {
-    session = JSON.parse(readFileSync(sessionPath, "utf8"));
+    session = JSON.parse(readText(sessionPath, ".codex/candidate-session.json"));
   } catch {
     fail(".codex/candidate-session.json is not valid JSON");
   }
@@ -43,7 +49,9 @@ function getSessionLogPath() {
 }
 
 function getLatestLogPath() {
-  if (!existsSync(logDir)) return null;
+  if (!existsSync(logDir)) {
+    return null;
+  }
 
   const files = readdirSync(logDir)
     .filter((file) => file.endsWith(".md"))
@@ -61,13 +69,16 @@ function hasUiConversationEntries() {
 function validateLog(content, label) {
   const withoutCodeFences = content.replace(/```[\s\S]*?```/g, "");
   const logIntro = withoutCodeFences.split(/^##\s+/m)[0] ?? "";
-  const candidateNameMatch = logIntro.match(/^候选人名称：(.+)$/m);
+  const candidateNameLine = logIntro
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .find((line) => line.startsWith("候选人名称："));
 
-  if (!candidateNameMatch) {
+  if (!candidateNameLine) {
     fail(`${label} must contain 候选人名称：... before iteration records`);
   }
 
-  const candidateName = candidateNameMatch[1].trim();
+  const candidateName = candidateNameLine.replace("候选人名称：", "").trim();
 
   if (!candidateName || candidateName === "待填写") {
     fail(`${label} must contain the current candidate's real name`);
@@ -93,16 +104,17 @@ function validateLog(content, label) {
   }
 
   const requiredSections = [
+    "### 时间",
     "### 用户输入",
-    "### AI 最终输出",
-    "### 本轮改动文件",
+    "### AI最终输出",
+    "### 改动文件",
     "### 验证结果",
   ];
 
   entries.forEach((entry, index) => {
-    const line = entry.split("\n")[0]?.trim() ?? "";
+    const line = entry.split(/\r?\n/)[0]?.trim() ?? "";
 
-    if (!/^\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}\s+\S+\s+\([+-]\d{4}\)/.test(line)) {
+    if (!/^\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}\s+\S+\s+\([+-]\d{4}\)$/.test(line)) {
       fail(`${label} entry ${index + 1} has invalid time heading: "${line}"`);
     }
 
@@ -113,12 +125,14 @@ function validateLog(content, label) {
     });
   });
 
-  console.log(`codex log check passed: ${label} has ${entries.length} iteration entr${entries.length === 1 ? "y" : "ies"}`);
+  console.log(
+    `codex log check passed: ${label} has ${entries.length} iteration entr${entries.length === 1 ? "y" : "ies"}`
+  );
 }
 
 const template = readText(templatePath, "docs/codex-iteration-log.md");
 
-if (!template.includes("Codex 迭代记录模板") || !template.includes("docs/codex-logs/")) {
+if (!template.includes("Codex") || !template.includes("docs/codex-logs/")) {
   fail("docs/codex-iteration-log.md must remain a template that points to docs/codex-logs/");
 }
 
